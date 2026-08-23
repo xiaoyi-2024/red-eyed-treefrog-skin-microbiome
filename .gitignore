@@ -4,8 +4,16 @@
 .Ruserdata
 .Rproj.user/
 
-# Research data are maintained separately from the public code repository
-data/
+# Only the compact, processed ASV datasets listed below are public
+data/**
+!data/processed/
+data/processed/**
+!data/processed/ps_clean_47_rebuilt_from_01_filtered.rds
+!data/processed/blast_97id_90cov/
+data/processed/blast_97id_90cov/**
+!data/processed/blast_97id_90cov/ps_anti_bd_47_rebuilt_97id_90cov.rds
+!data/processed/blast_97id_90cov/integrated_asv_taxonomy_function_rebuilt.csv
+!data/processed/blast_97id_90cov/rebuilt_47_asv_sequences.fasta
 
 # Sequencing files
 *.fastq

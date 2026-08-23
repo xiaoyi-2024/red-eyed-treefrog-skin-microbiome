@@ -1,16 +1,24 @@
 # Red-eyed tree frog skin microbiome analysis
 
-This repository contains the R workflow, statistical outputs, source-data tables for figures, and PNG figures used to analyse skin bacterial communities from 47 *Agalychnis callidryas* individuals sampled at four localities in Costa Rica and Panama.
+This repository contains the R workflow, processed ASV-level data, statistical outputs, source-data tables for figures, and PNG figures used to analyse skin bacterial communities from 47 *Agalychnis callidryas* individuals sampled at four localities in Costa Rica and Panama.
 
 ## Repository structure
 
 - `code/data_process/`: sample-depth filtering, phyloseq reconstruction, SILVA taxonomy integration, and Woodhams anti-Bd annotation.
 - `code/analysis/`: community composition, diversity, clustering, locality comparison, differential-abundance, spatial, and Bd-arrival analyses.
+- `data/processed/`: compact whole-community and anti-Bd phyloseq objects, ASV sequences, taxonomy, and functional annotations.
 - `results/`: numerical outputs, source-data tables, and PNG figures.
 
 ## Data availability
 
-Research data are not distributed in this GitHub repository. The processing and analysis scripts retain the expected repository-relative input paths. Users must obtain the corresponding raw sequences, reference databases, metadata, and processed phyloseq objects separately before rerunning the workflow.
+The repository includes processed ASV-level data required for the principal community analyses:
+
+- `data/processed/ps_clean_47_rebuilt_from_01_filtered.rds`: quality-controlled whole-community phyloseq object for 47 frog samples.
+- `data/processed/blast_97id_90cov/ps_anti_bd_47_rebuilt_97id_90cov.rds`: candidate anti-Bd phyloseq subset.
+- `data/processed/blast_97id_90cov/integrated_asv_taxonomy_function_rebuilt.csv`: ASV sequences, SILVA taxonomy, BLAST statistics, and functional annotations.
+- `data/processed/blast_97id_90cov/rebuilt_47_asv_sequences.fasta`: ASV representative sequences.
+
+Raw FASTQ files, filtered FASTQ files, the original sequencing archive, the SILVA training database, BLAST database files, and large DADA2 intermediate objects are not distributed through GitHub.
 
 ## Reproduction
 
