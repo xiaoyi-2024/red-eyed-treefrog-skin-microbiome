@@ -1,0 +1,4 @@
+"Figure","Whole_row","Anti_Bd_row","Cross_community_absolute_scale_comparable"
+"Bray-Curtis","top","bottom",TRUE
+"CLR-Aitchison","top","bottom",FALSE
+"Robust Aitchison","top","bottom",FALSE

@@ -1,0 +1,7 @@
+"Community","Predictor","Spearman_rho","Exact_p","Descriptive_linear_R2","Independent_localities","Permutations","Holm_p"
+"Whole community","Longitude",-0.4,0.75,0.13508457935298,4,24,1
+"Whole community","Latitude",-0.2,0.916666666666667,0.0207968905252132,4,24,1
+"Whole community","Elevation",1,0.0833333333333333,0.92115002984468,4,24,0.5
+"Anti-Bd","Longitude",-0.4,0.75,0.624232413196803,4,24,1
+"Anti-Bd","Latitude",0.8,0.333333333333333,0.730635564219458,4,24,1
+"Anti-Bd","Elevation",-0.4,0.75,0.000146018427419024,4,24,1

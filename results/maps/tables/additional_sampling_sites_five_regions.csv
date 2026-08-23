@@ -1,0 +1,21 @@
+"Region","Province","No","Site","Latitude","Longitude","Elevation_m","Colour_n","DNA_n"
+"Southwestern CR","Puntarenas, CR","pav","Pavones",8.4204,-83.106,37,20,26
+"Southwestern CR","Puntarenas, CR","sie","Sierpe",8.8892,-83.477,17,19,22
+"Southwestern CR","Puntarenas, CR","uvi","Uvita",9.123,-83.701,26,24,32
+"Southwestern CR","Puntarenas, CR","cam","Campo",8.6909,-83.501,35,16,19
+"Northwestern CR","Puntarenas, CR","plb","Pl. Bandera",9.5188,-84.377,23,19,27
+"Northwestern CR","San Jose, CR","car","Carara",9.725,-84.531,385,25,30
+"Northwestern CR","Guanacaste, CR","cab","Cabo Blanco",9.58,-85.124,166,18,30
+"Northeastern CR","Guanacaste, CR","til","Tilaran",10.5162,-84.96,637,22,23
+"Northeastern CR","Alajuela, CR","sra","San Ramon",10.2335,-84.528,638,14,14
+"Northeastern CR","Heredia, CR","lse","La Selva Biological Station",10.4327,-84.008,37,20,33
+"Northeastern CR","Limon, CR","ear","Universidad de EARTH",10.2318,-83.5,44,NA,32
+"Northeastern CR","Limon, CR","siq","Siquirres",10.0134,-83.565,667,NA,26
+"Southeastern CR/PA","Limon, CR","cah","Cahuita",9.718,-82.814,16,NA,29
+"Southeastern CR/PA","Limon, CR","man","Manzanillo",9.6332,-82.655,2,26,30
+"Southeastern CR/PA","Bocas del Toro, PA","chi","Chiriqui Grande",8.946,-82.157,21,21,24
+"Southeastern CR/PA","Bocas del Toro, PA","alm","Almirante",9.198,-82.344,13,10,15
+"Central Panama","Veraguas, PA","sfe","Santa Fe",8.529,-81.139,714,17,19
+"Central Panama","Cocle, PA","cop","El Cope",8.6681,-80.592,792,22,31
+"Central Panama","Cocle, PA","val","El Valle",8.6299,-80.115,866,21,24
+"Central Panama","Panama, PA","gam","Gamboa",9.1231,-79.693,51,22,21

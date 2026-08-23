@@ -1,0 +1,3 @@
+"Metric","Effect","Effect_definition","Ratio_per_10_years","Percent_change_per_10_years","Exact_p","Localities","Holm_p"
+"Anti-Bd genus Hill D0",0.0344248954313686,"log D0 ratio per 10-year later estimated Bd arrival",1.03502429040406,3.50242904040585,0.666666666666667,4,0.666666666666667
+"Whole community genus Hill D0",0.226473290010136,"log D0 ratio per 10-year later estimated Bd arrival",1.25416911054229,25.4169110542292,0.0833333333333333,4,0.166666666666667

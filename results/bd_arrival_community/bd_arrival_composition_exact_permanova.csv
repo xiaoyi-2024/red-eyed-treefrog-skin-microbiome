@@ -1,0 +1,5 @@
+"Community","Metric","R2","pseudo_F","Exact_p","Locality_n","Frog_n","Permutations","Permutation_unit","Analysis_role","Holm_p_within_metric","Conclusion_at_0_05"
+"Whole community","CLR-Aitchison",0.0484615928112775,2.2918377860863,0.25,4,47,24,"Locality (all frogs at a locality moved together)","Primary",0.5,"Insufficient evidence to reject no association"
+"Whole community","Robust Aitchison",0.302019764348046,19.4717396015769,0.25,4,47,24,"Locality (all frogs at a locality moved together)","Sensitivity",0.25,"Insufficient evidence to reject no association"
+"Anti-Bd genera","CLR-Aitchison",0.0693282850512558,3.35217324991802,0.416666666666667,4,47,24,"Locality (all frogs at a locality moved together)","Primary",0.5,"Insufficient evidence to reject no association"
+"Anti-Bd genera","Robust Aitchison",0.141849219181143,7.43833718482488,0.0416666666666667,4,47,24,"Locality (all frogs at a locality moved together)","Sensitivity",0.0833333333333333,"Insufficient evidence to reject no association"

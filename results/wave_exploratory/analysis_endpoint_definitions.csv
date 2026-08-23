@@ -1,0 +1,8 @@
+"Endpoint","Role","Estimator","Biological_scope","Hypothesis_role"
+"Anti-Bd relative abundance","Primary","Beta-binomial conditional mean","Anti-Bd ASVs versus all bacterial reads","Tests the stated hypothesis"
+"Anti-Bd genus Hill D1 diversity","Primary","Coverage-standardized Hill number q = 1","Anti-Bd genera","Tests the stated hypothesis"
+"Anti-Bd relative-abundance variation","Secondary","Beta-binomial extra-variation rho = 1 / (phi + 1)","Anti-Bd ASVs versus all bacterial reads","Supporting heterogeneity analysis"
+"Whole-community within-locality heterogeneity","Secondary","Mean CLR-Aitchison distance to locality centroid","All bacterial ASVs","Supporting community-heterogeneity analysis"
+"Anti-Bd within-locality heterogeneity","Secondary","Mean anti-Bd CLR-Aitchison distance to locality centroid","Anti-Bd ASVs","Supporting anti-Bd community-heterogeneity analysis"
+"Whole-community robust within-locality heterogeneity","Sensitivity","Mean robust Aitchison distance to locality centroid","All bacterial ASVs","Zero-aware sensitivity analysis of community heterogeneity"
+"Anti-Bd robust within-locality heterogeneity","Sensitivity","Mean anti-Bd robust Aitchison distance to locality centroid","Anti-Bd ASVs","Zero-aware sensitivity analysis of anti-Bd heterogeneity"

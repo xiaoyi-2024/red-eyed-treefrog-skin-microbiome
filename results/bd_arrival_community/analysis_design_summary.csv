@@ -1,0 +1,3 @@
+"Question","Primary_analysis","Sensitivity_analysis","Independent_unit"
+"Within-locality consistency","Bias-adjusted CLR-Aitchison distance to locality centroid with bootstrap 95% CI and PERMDISP","Robust Aitchison dispersion","Frog for dispersion distribution; locality for Bd-year association"
+"Bd-arrival association with composition","Continuous-year CLR-Aitchison PERMANOVA with exact locality-level permutation","Robust Aitchison PERMANOVA","Locality for permutation of Bd arrival year"

@@ -1,0 +1,10 @@
+"Endpoint","Predictor","Test","Effect","Exact_p","Independent_localities","Permutations","Holm_p"
+"Anti-Bd beta-binomial mean","Longitude","Exact Spearman",-0.4,0.75,4,24,1
+"Anti-Bd beta-binomial mean","Latitude","Exact Spearman",0.8,0.333333333333333,4,24,1
+"Anti-Bd beta-binomial mean","Elevation","Exact Spearman",-0.4,0.75,4,24,1
+"Anti-Bd genus Hill D1","Longitude","Exact Spearman",0.8,0.333333333333333,4,24,1
+"Anti-Bd genus Hill D1","Latitude","Exact Spearman",-1,0.0833333333333333,4,24,0.75
+"Anti-Bd genus Hill D1","Elevation","Exact Spearman",0.2,0.916666666666667,4,24,1
+"Whole-community genus Hill D1","Longitude","Exact Spearman",0.4,0.75,4,24,1
+"Whole-community genus Hill D1","Latitude","Exact Spearman",-0.8,0.333333333333333,4,24,1
+"Whole-community genus Hill D1","Elevation","Exact Spearman",0.4,0.75,4,24,1

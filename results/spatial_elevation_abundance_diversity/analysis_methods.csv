@@ -1,0 +1,7 @@
+"Item","Definition"
+"Independent unit","Locality (n = 4)"
+"Coordinate method","Separate exact locality-level Spearman correlations for longitude and latitude"
+"Elevation method","Exact locality-level Spearman correlation"
+"Relative-abundance scale","Logit of beta-binomial conditional mean anti-Bd proportion"
+"Diversity scale","Log of coverage-standardized genus-level Hill q = 1"
+"Multiplicity","Holm correction across 3 endpoints x 3 predictors"

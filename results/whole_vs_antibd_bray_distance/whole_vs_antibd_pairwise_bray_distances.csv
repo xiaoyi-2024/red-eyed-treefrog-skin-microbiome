@@ -1,0 +1,7 @@
+"Pair_short","Cross_sample_pairs","Whole_mean_distance","Anti_Bd_mean_distance","Difference_AntiBd_minus_whole","Inference_note"
+"Lost vs Veragua",162,0.693560514568279,0.627668080030287,-0.0658924345379921,"Descriptive cross-sample-pair means; pairs sharing a frog are non-independent; no inferential test is performed on the difference"
+"Lost vs Campana",90,0.735295935315807,0.767167226783391,0.031871291467584,"Descriptive cross-sample-pair means; pairs sharing a frog are non-independent; no inferential test is performed on the difference"
+"Lost vs Soberanía",90,0.688097758464916,0.712661179621669,0.0245634211567529,"Descriptive cross-sample-pair means; pairs sharing a frog are non-independent; no inferential test is performed on the difference"
+"Veragua vs Campana",180,0.603531333813254,0.671165908862377,0.0676345750491231,"Descriptive cross-sample-pair means; pairs sharing a frog are non-independent; no inferential test is performed on the difference"
+"Veragua vs Soberanía",180,0.633863078592225,0.746782482593526,0.112919404001301,"Descriptive cross-sample-pair means; pairs sharing a frog are non-independent; no inferential test is performed on the difference"
+"Campana vs Soberanía",100,0.54017499758422,0.734978490623175,0.194803493038955,"Descriptive cross-sample-pair means; pairs sharing a frog are non-independent; no inferential test is performed on the difference"

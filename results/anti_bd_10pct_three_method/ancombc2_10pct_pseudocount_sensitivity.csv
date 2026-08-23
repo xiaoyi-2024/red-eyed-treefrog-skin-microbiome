@@ -1,0 +1,14 @@
+"taxon","ss_prim_(Intercept)","ss_prim_SiteVeragua","ss_prim_SiteAltos de Campana","ss_prim_SiteSoberanía","ss_global"
+"Staphylococcus",0.25,0.25,0,1,0
+"Acinetobacter",0,1,0,1,0
+"Pseudomonas",1,1,0.75,1,0
+"Unclassified_Bacillaceae",1,1,1,1,0
+"Chryseobacterium",1,1,1,1,0.75
+"Stenotrophomonas",0.25,0.25,1,1,0.25
+"Curtobacterium",1,1,1,1,0.25
+"Micrococcus",1,1,1,1,0
+"Bosea",1,1,1,1,0
+"Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium",1,1,1,1,0.75
+"Brevundimonas",1,1,1,1,0
+"Burkholderia-Caballeronia-Paraburkholderia",1,1,1,1,0.75
+"Novosphingobium",0.25,1,1,1,0.25

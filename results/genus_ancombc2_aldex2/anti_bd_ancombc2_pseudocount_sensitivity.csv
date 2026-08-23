@@ -1,0 +1,14 @@
+"taxon","ss_prim_(Intercept)","ss_prim_SiteVeragua","ss_prim_SiteAltos de Campana","ss_prim_SiteSoberanía","ss_global","ss_tab_pair.ss_pair_SiteVeragua","ss_tab_pair.ss_pair_SiteAltos de Campana","ss_tab_pair.ss_pair_SiteSoberanía","ss_tab_pair.ss_pair_SiteAltos de Campana_SiteVeragua","ss_tab_pair.ss_pair_SiteSoberanía_SiteVeragua","ss_tab_pair.ss_pair_SiteSoberanía_SiteAltos de Campana"
+"Staphylococcus",0.25,1,0.5,1,0,1,0.5,1,1,1,1
+"Acinetobacter",0,1,1,0.75,0,1,1,0.75,1,1,1
+"Pseudomonas",1,1,1,0.75,0,1,1,1,1,1,1
+"Unclassified_Bacillaceae",1,1,1,1,0.25,1,1,1,1,1,1
+"Chryseobacterium",1,1,1,1,1,1,1,1,1,1,1
+"Stenotrophomonas",0.25,1,1,1,0,1,1,1,1,1,1
+"Curtobacterium",1,0.75,1,1,0,0.5,1,1,1,1,1
+"Micrococcus",1,1,1,1,0.25,1,1,1,1,1,1
+"Bosea",1,1,0.25,1,0.25,1,0.25,1,1,1,1
+"Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium",1,1,0.25,1,0.25,1,0.75,1,1,1,1
+"Brevundimonas",1,1,1,1,1,1,1,1,1,1,1
+"Burkholderia-Caballeronia-Paraburkholderia",1,1,0.25,1,0,1,0.25,1,1,1,1
+"Novosphingobium",0.25,1,1,1,0,1,1,1,1,1,1

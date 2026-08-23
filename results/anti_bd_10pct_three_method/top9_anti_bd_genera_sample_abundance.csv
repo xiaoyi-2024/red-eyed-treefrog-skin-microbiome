@@ -1,0 +1,424 @@
+"Genus","Display_genus","Sample_ID","Site","Relative_abundance_percent","Detected"
+"Staphylococcus","Staphylococcus","220604_01","Veragua",3.81263616557734,TRUE
+"Staphylococcus","Staphylococcus","220604_02","Veragua",0,FALSE
+"Staphylococcus","Staphylococcus","220604_03","Veragua",0.10674513876868,TRUE
+"Staphylococcus","Staphylococcus","220604_04","Veragua",0,FALSE
+"Staphylococcus","Staphylococcus","220604_05","Veragua",0.532855652804861,TRUE
+"Staphylococcus","Staphylococcus","220604_06","Veragua",1.07690966166725,TRUE
+"Staphylococcus","Staphylococcus","220604_07","Veragua",2.71119512707414,TRUE
+"Staphylococcus","Staphylococcus","220606_02","Veragua",1.00590915242005,TRUE
+"Staphylococcus","Staphylococcus","220606_04","Veragua",0,FALSE
+"Staphylococcus","Staphylococcus","220607_01","Veragua",0,FALSE
+"Staphylococcus","Staphylococcus","220607_02","Veragua",0,FALSE
+"Staphylococcus","Staphylococcus","220607_03","Veragua",0.283779948919609,TRUE
+"Staphylococcus","Staphylococcus","220607_04","Veragua",0.775154135434521,TRUE
+"Staphylococcus","Staphylococcus","220609_01","Veragua",0.15341043190937,TRUE
+"Staphylococcus","Staphylococcus","220609_02","Veragua",0.0624693491511174,TRUE
+"Staphylococcus","Staphylococcus","220609_03","Veragua",0.573868286381968,TRUE
+"Staphylococcus","Staphylococcus","220609_04","Veragua",0.249241764511576,TRUE
+"Staphylococcus","Staphylococcus","220609_07","Veragua",1.63262537014423,TRUE
+"Staphylococcus","Staphylococcus","220707_11","Altos de Campana",0,FALSE
+"Staphylococcus","Staphylococcus","220707_12","Altos de Campana",0,FALSE
+"Staphylococcus","Staphylococcus","220707_13","Altos de Campana",0,FALSE
+"Staphylococcus","Staphylococcus","220707_14","Altos de Campana",0,FALSE
+"Staphylococcus","Staphylococcus","220707_15","Altos de Campana",0,FALSE
+"Staphylococcus","Staphylococcus","220707_16","Altos de Campana",0.141732283464567,TRUE
+"Staphylococcus","Staphylococcus","220707_17","Altos de Campana",0,FALSE
+"Staphylococcus","Staphylococcus","220707_18","Altos de Campana",0.105621926756963,TRUE
+"Staphylococcus","Staphylococcus","220707_19","Altos de Campana",0.197024923652842,TRUE
+"Staphylococcus","Staphylococcus","220707_20","Altos de Campana",0.239397154438369,TRUE
+"Staphylococcus","Staphylococcus","220708_01","Soberanía",0,FALSE
+"Staphylococcus","Staphylococcus","220708_02","Soberanía",0.963371389919446,TRUE
+"Staphylococcus","Staphylococcus","220708_03","Soberanía",0.637736184854507,TRUE
+"Staphylococcus","Staphylococcus","220708_04","Soberanía",0.639397890787638,TRUE
+"Staphylococcus","Staphylococcus","220708_05","Soberanía",0.30147935216995,TRUE
+"Staphylococcus","Staphylococcus","220708_06","Soberanía",0.941035491488387,TRUE
+"Staphylococcus","Staphylococcus","220708_07","Soberanía",0.780683655830034,TRUE
+"Staphylococcus","Staphylococcus","220708_08","Soberanía",0.599861226134253,TRUE
+"Staphylococcus","Staphylococcus","220708_09","Soberanía",0,FALSE
+"Staphylococcus","Staphylococcus","220708_10","Soberanía",0,FALSE
+"Staphylococcus","Staphylococcus","250607_01","Lost Iguana",3.06955343355079,TRUE
+"Staphylococcus","Staphylococcus","250607_02","Lost Iguana",2.51866641708783,TRUE
+"Staphylococcus","Staphylococcus","250607_03","Lost Iguana",3.81309987550701,TRUE
+"Staphylococcus","Staphylococcus","250607_04","Lost Iguana",1.08048511576626,TRUE
+"Staphylococcus","Staphylococcus","250607_05","Lost Iguana",2.65636390144336,TRUE
+"Staphylococcus","Staphylococcus","250607_07","Lost Iguana",7.2772410492627,TRUE
+"Staphylococcus","Staphylococcus","250607_08","Lost Iguana",9.45382208660049,TRUE
+"Staphylococcus","Staphylococcus","250607_09","Lost Iguana",5.36535108575052,TRUE
+"Staphylococcus","Staphylococcus","250607_10","Lost Iguana",0.997298981923956,TRUE
+"Acinetobacter","Acinetobacter","220604_01","Veragua",3.74560080442433,TRUE
+"Acinetobacter","Acinetobacter","220604_02","Veragua",4.8175456135966,TRUE
+"Acinetobacter","Acinetobacter","220604_03","Veragua",0.910218683284288,TRUE
+"Acinetobacter","Acinetobacter","220604_04","Veragua",3.6743923120407,TRUE
+"Acinetobacter","Acinetobacter","220604_05","Veragua",2.34002993061539,TRUE
+"Acinetobacter","Acinetobacter","220604_06","Veragua",2.66393442622951,TRUE
+"Acinetobacter","Acinetobacter","220604_07","Veragua",0.705734089477,TRUE
+"Acinetobacter","Acinetobacter","220606_02","Veragua",1.40285984933917,TRUE
+"Acinetobacter","Acinetobacter","220606_04","Veragua",2.21760221760222,TRUE
+"Acinetobacter","Acinetobacter","220607_01","Veragua",0.127632418634333,TRUE
+"Acinetobacter","Acinetobacter","220607_02","Veragua",3.11216573879712,TRUE
+"Acinetobacter","Acinetobacter","220607_03","Veragua",0.652693882515101,TRUE
+"Acinetobacter","Acinetobacter","220607_04","Veragua",0.880042978843153,TRUE
+"Acinetobacter","Acinetobacter","220609_01","Veragua",4.44496892455354,TRUE
+"Acinetobacter","Acinetobacter","220609_02","Veragua",0.628196445669181,TRUE
+"Acinetobacter","Acinetobacter","220609_03","Veragua",1.94839129534496,TRUE
+"Acinetobacter","Acinetobacter","220609_04","Veragua",0.888862196330441,TRUE
+"Acinetobacter","Acinetobacter","220609_07","Veragua",0.342408351890429,TRUE
+"Acinetobacter","Acinetobacter","220707_11","Altos de Campana",0.73733786287832,TRUE
+"Acinetobacter","Acinetobacter","220707_12","Altos de Campana",0.159720784406519,TRUE
+"Acinetobacter","Acinetobacter","220707_13","Altos de Campana",0.0407188229545578,TRUE
+"Acinetobacter","Acinetobacter","220707_14","Altos de Campana",0.597999420121774,TRUE
+"Acinetobacter","Acinetobacter","220707_15","Altos de Campana",0.0308791742026556,TRUE
+"Acinetobacter","Acinetobacter","220707_16","Altos de Campana",0.0498687664041995,TRUE
+"Acinetobacter","Acinetobacter","220707_17","Altos de Campana",0.141352480548398,TRUE
+"Acinetobacter","Acinetobacter","220707_18","Altos de Campana",0.143787833064101,TRUE
+"Acinetobacter","Acinetobacter","220707_19","Altos de Campana",0.243818343020392,TRUE
+"Acinetobacter","Acinetobacter","220707_20","Altos de Campana",0.0380859109333769,TRUE
+"Acinetobacter","Acinetobacter","220708_01","Soberanía",0.659286419404879,TRUE
+"Acinetobacter","Acinetobacter","220708_02","Soberanía",0.342304302375633,TRUE
+"Acinetobacter","Acinetobacter","220708_03","Soberanía",0.142378311037285,TRUE
+"Acinetobacter","Acinetobacter","220708_04","Soberanía",0.87159426257635,TRUE
+"Acinetobacter","Acinetobacter","220708_05","Soberanía",0.0841337726985908,TRUE
+"Acinetobacter","Acinetobacter","220708_06","Soberanía",0.546294011912734,TRUE
+"Acinetobacter","Acinetobacter","220708_07","Soberanía",0.310414691722894,TRUE
+"Acinetobacter","Acinetobacter","220708_08","Soberanía",0.201445934149562,TRUE
+"Acinetobacter","Acinetobacter","220708_09","Soberanía",0.0377078809471179,TRUE
+"Acinetobacter","Acinetobacter","220708_10","Soberanía",1.86842176833746,TRUE
+"Acinetobacter","Acinetobacter","250607_01","Lost Iguana",15.8835208471211,TRUE
+"Acinetobacter","Acinetobacter","250607_02","Lost Iguana",3.19876874441047,TRUE
+"Acinetobacter","Acinetobacter","250607_03","Lost Iguana",9.72049315288543,TRUE
+"Acinetobacter","Acinetobacter","250607_04","Lost Iguana",0.652701212789416,TRUE
+"Acinetobacter","Acinetobacter","250607_05","Lost Iguana",1.37629392039656,TRUE
+"Acinetobacter","Acinetobacter","250607_07","Lost Iguana",3.15456784215197,TRUE
+"Acinetobacter","Acinetobacter","250607_08","Lost Iguana",4.34933755649117,TRUE
+"Acinetobacter","Acinetobacter","250607_09","Lost Iguana",3.29291488349976,TRUE
+"Acinetobacter","Acinetobacter","250607_10","Lost Iguana",31.4564720548514,TRUE
+"Amnibacterium","Amnibacterium","220604_01","Veragua",0.150829562594268,TRUE
+"Amnibacterium","Amnibacterium","220604_02","Veragua",0.268682829292677,TRUE
+"Amnibacterium","Amnibacterium","220604_03","Veragua",0.190410247533322,TRUE
+"Amnibacterium","Amnibacterium","220604_04","Veragua",0,FALSE
+"Amnibacterium","Amnibacterium","220604_05","Veragua",0,FALSE
+"Amnibacterium","Amnibacterium","220604_06","Veragua",0.372776421346355,TRUE
+"Amnibacterium","Amnibacterium","220604_07","Veragua",0.400756143667297,TRUE
+"Amnibacterium","Amnibacterium","220606_02","Veragua",0.552573413324913,TRUE
+"Amnibacterium","Amnibacterium","220606_04","Veragua",0,FALSE
+"Amnibacterium","Amnibacterium","220607_01","Veragua",0.339023611997447,TRUE
+"Amnibacterium","Amnibacterium","220607_02","Veragua",0.675367345076207,TRUE
+"Amnibacterium","Amnibacterium","220607_03","Veragua",0.158105971540925,TRUE
+"Amnibacterium","Amnibacterium","220607_04","Veragua",0.227685538130932,TRUE
+"Amnibacterium","Amnibacterium","220609_01","Veragua",0,FALSE
+"Amnibacterium","Amnibacterium","220609_02","Veragua",0.374816094906705,TRUE
+"Amnibacterium","Amnibacterium","220609_03","Veragua",0.685289448514549,TRUE
+"Amnibacterium","Amnibacterium","220609_04","Veragua",0.294285456893186,TRUE
+"Amnibacterium","Amnibacterium","220609_07","Veragua",0.887547989049318,TRUE
+"Amnibacterium","Amnibacterium","220707_11","Altos de Campana",0.28953057442866,TRUE
+"Amnibacterium","Amnibacterium","220707_12","Altos de Campana",0.351977284155107,TRUE
+"Amnibacterium","Amnibacterium","220707_13","Altos de Campana",0.143873174439438,TRUE
+"Amnibacterium","Amnibacterium","220707_14","Altos de Campana",0.155842273122644,TRUE
+"Amnibacterium","Amnibacterium","220707_15","Altos de Campana",0.229388151219727,TRUE
+"Amnibacterium","Amnibacterium","220707_16","Altos de Campana",0,FALSE
+"Amnibacterium","Amnibacterium","220707_17","Altos de Campana",0.0725526006354607,TRUE
+"Amnibacterium","Amnibacterium","220707_18","Altos de Campana",0.346155894413576,TRUE
+"Amnibacterium","Amnibacterium","220707_19","Altos de Campana",0.211801792926805,TRUE
+"Amnibacterium","Amnibacterium","220707_20","Altos de Campana",0.22035419897168,TRUE
+"Amnibacterium","Amnibacterium","220708_01","Soberanía",0.257368495275702,TRUE
+"Amnibacterium","Amnibacterium","220708_02","Soberanía",0.122983581691844,TRUE
+"Amnibacterium","Amnibacterium","220708_03","Soberanía",0.0622905110788123,TRUE
+"Amnibacterium","Amnibacterium","220708_04","Soberanía",0.105231853224441,TRUE
+"Amnibacterium","Amnibacterium","220708_05","Soberanía",0.0771226249737082,TRUE
+"Amnibacterium","Amnibacterium","220708_06","Soberanía",0.243188947238572,TRUE
+"Amnibacterium","Amnibacterium","220708_07","Soberanía",0.286250673804346,TRUE
+"Amnibacterium","Amnibacterium","220708_08","Soberanía",0.0716252210309555,TRUE
+"Amnibacterium","Amnibacterium","220708_09","Soberanía",0.0884184794622076,TRUE
+"Amnibacterium","Amnibacterium","220708_10","Soberanía",0.24477141069923,TRUE
+"Amnibacterium","Amnibacterium","250607_01","Lost Iguana",0.0220604456210015,TRUE
+"Amnibacterium","Amnibacterium","250607_02","Lost Iguana",0,FALSE
+"Amnibacterium","Amnibacterium","250607_03","Lost Iguana",0,FALSE
+"Amnibacterium","Amnibacterium","250607_04","Lost Iguana",0,FALSE
+"Amnibacterium","Amnibacterium","250607_05","Lost Iguana",0,FALSE
+"Amnibacterium","Amnibacterium","250607_07","Lost Iguana",0,FALSE
+"Amnibacterium","Amnibacterium","250607_08","Lost Iguana",0,FALSE
+"Amnibacterium","Amnibacterium","250607_09","Lost Iguana",0,FALSE
+"Amnibacterium","Amnibacterium","250607_10","Lost Iguana",0,FALSE
+"Brachybacterium","Brachybacterium","220604_01","Veragua",0,FALSE
+"Brachybacterium","Brachybacterium","220604_02","Veragua",0.0812296925768558,TRUE
+"Brachybacterium","Brachybacterium","220604_03","Veragua",0.0331775431308061,TRUE
+"Brachybacterium","Brachybacterium","220604_04","Veragua",0.0327273809169617,TRUE
+"Brachybacterium","Brachybacterium","220604_05","Veragua",0,FALSE
+"Brachybacterium","Brachybacterium","220604_06","Veragua",0,FALSE
+"Brachybacterium","Brachybacterium","220604_07","Veragua",0.23062381852552,TRUE
+"Brachybacterium","Brachybacterium","220606_02","Veragua",0,FALSE
+"Brachybacterium","Brachybacterium","220606_04","Veragua",0,FALSE
+"Brachybacterium","Brachybacterium","220607_01","Veragua",0,FALSE
+"Brachybacterium","Brachybacterium","220607_02","Veragua",0,FALSE
+"Brachybacterium","Brachybacterium","220607_03","Veragua",0,FALSE
+"Brachybacterium","Brachybacterium","220607_04","Veragua",0,FALSE
+"Brachybacterium","Brachybacterium","220609_01","Veragua",0.118008024545669,TRUE
+"Brachybacterium","Brachybacterium","220609_02","Veragua",0.0163471194040307,TRUE
+"Brachybacterium","Brachybacterium","220609_03","Veragua",0,FALSE
+"Brachybacterium","Brachybacterium","220609_04","Veragua",0,FALSE
+"Brachybacterium","Brachybacterium","220609_07","Veragua",0.13329182929068,TRUE
+"Brachybacterium","Brachybacterium","220707_11","Altos de Campana",0,FALSE
+"Brachybacterium","Brachybacterium","220707_12","Altos de Campana",0,FALSE
+"Brachybacterium","Brachybacterium","220707_13","Altos de Campana",0,FALSE
+"Brachybacterium","Brachybacterium","220707_14","Altos de Campana",0,FALSE
+"Brachybacterium","Brachybacterium","220707_15","Altos de Campana",0.0749922802064493,TRUE
+"Brachybacterium","Brachybacterium","220707_16","Altos de Campana",0,FALSE
+"Brachybacterium","Brachybacterium","220707_17","Altos de Campana",0,FALSE
+"Brachybacterium","Brachybacterium","220707_18","Altos de Campana",0,FALSE
+"Brachybacterium","Brachybacterium","220707_19","Altos de Campana",0,FALSE
+"Brachybacterium","Brachybacterium","220707_20","Altos de Campana",0,FALSE
+"Brachybacterium","Brachybacterium","220708_01","Soberanía",0.468904244817374,TRUE
+"Brachybacterium","Brachybacterium","220708_02","Soberanía",0.0532928853997991,TRUE
+"Brachybacterium","Brachybacterium","220708_03","Soberanía",0.0207635036929374,TRUE
+"Brachybacterium","Brachybacterium","220708_04","Soberanía",0.0228764898314003,TRUE
+"Brachybacterium","Brachybacterium","220708_05","Soberanía",2.00518824931641,TRUE
+"Brachybacterium","Brachybacterium","220708_06","Soberanía",0,FALSE
+"Brachybacterium","Brachybacterium","220708_07","Soberanía",0.0315991003550252,TRUE
+"Brachybacterium","Brachybacterium","220708_08","Soberanía",0.344696376211473,TRUE
+"Brachybacterium","Brachybacterium","220708_09","Soberanía",0,FALSE
+"Brachybacterium","Brachybacterium","220708_10","Soberanía",0.0163180940466154,TRUE
+"Brachybacterium","Brachybacterium","250607_01","Lost Iguana",0.274179824146733,TRUE
+"Brachybacterium","Brachybacterium","250607_02","Lost Iguana",0.151827125059795,TRUE
+"Brachybacterium","Brachybacterium","250607_03","Lost Iguana",0.196779245813421,TRUE
+"Brachybacterium","Brachybacterium","250607_04","Lost Iguana",0.0573318632855568,TRUE
+"Brachybacterium","Brachybacterium","250607_05","Lost Iguana",0.0874763084997813,TRUE
+"Brachybacterium","Brachybacterium","250607_07","Lost Iguana",0.573285875233053,TRUE
+"Brachybacterium","Brachybacterium","250607_08","Lost Iguana",0.621885742979644,TRUE
+"Brachybacterium","Brachybacterium","250607_09","Lost Iguana",0.269456332223807,TRUE
+"Brachybacterium","Brachybacterium","250607_10","Lost Iguana",0.270101807604405,TRUE
+"Unclassified_Alcaligenaceae","Uncl. Alcaligenaceae","220604_01","Veragua",1.16473940003352,TRUE
+"Unclassified_Alcaligenaceae","Uncl. Alcaligenaceae","220604_02","Veragua",0,FALSE
+"Unclassified_Alcaligenaceae","Uncl. Alcaligenaceae","220604_03","Veragua",0.0735675956378743,TRUE
+"Unclassified_Alcaligenaceae","Uncl. Alcaligenaceae","220604_04","Veragua",0,FALSE
+"Unclassified_Alcaligenaceae","Uncl. Alcaligenaceae","220604_05","Veragua",0.170060314724956,TRUE
+"Unclassified_Alcaligenaceae","Uncl. Alcaligenaceae","220604_06","Veragua",0.0915591210324381,TRUE
+"Unclassified_Alcaligenaceae","Uncl. Alcaligenaceae","220604_07","Veragua",0,FALSE
+"Unclassified_Alcaligenaceae","Uncl. Alcaligenaceae","220606_02","Veragua",0,FALSE
+"Unclassified_Alcaligenaceae","Uncl. Alcaligenaceae","220606_04","Veragua",0,FALSE
+"Unclassified_Alcaligenaceae","Uncl. Alcaligenaceae","220607_01","Veragua",0,FALSE
+"Unclassified_Alcaligenaceae","Uncl. Alcaligenaceae","220607_02","Veragua",0,FALSE
+"Unclassified_Alcaligenaceae","Uncl. Alcaligenaceae","220607_03","Veragua",0,FALSE
+"Unclassified_Alcaligenaceae","Uncl. Alcaligenaceae","220607_04","Veragua",0,FALSE
+"Unclassified_Alcaligenaceae","Uncl. Alcaligenaceae","220609_01","Veragua",0,FALSE
+"Unclassified_Alcaligenaceae","Uncl. Alcaligenaceae","220609_02","Veragua",0.0163471194040307,TRUE
+"Unclassified_Alcaligenaceae","Uncl. Alcaligenaceae","220609_03","Veragua",0,FALSE
+"Unclassified_Alcaligenaceae","Uncl. Alcaligenaceae","220609_04","Veragua",0,FALSE
+"Unclassified_Alcaligenaceae","Uncl. Alcaligenaceae","220609_07","Veragua",0,FALSE
+"Unclassified_Alcaligenaceae","Uncl. Alcaligenaceae","220707_11","Altos de Campana",0,FALSE
+"Unclassified_Alcaligenaceae","Uncl. Alcaligenaceae","220707_12","Altos de Campana",0,FALSE
+"Unclassified_Alcaligenaceae","Uncl. Alcaligenaceae","220707_13","Altos de Campana",0,FALSE
+"Unclassified_Alcaligenaceae","Uncl. Alcaligenaceae","220707_14","Altos de Campana",0,FALSE
+"Unclassified_Alcaligenaceae","Uncl. Alcaligenaceae","220707_15","Altos de Campana",0,FALSE
+"Unclassified_Alcaligenaceae","Uncl. Alcaligenaceae","220707_16","Altos de Campana",0,FALSE
+"Unclassified_Alcaligenaceae","Uncl. Alcaligenaceae","220707_17","Altos de Campana",0,FALSE
+"Unclassified_Alcaligenaceae","Uncl. Alcaligenaceae","220707_18","Altos de Campana",0.0736690749649406,TRUE
+"Unclassified_Alcaligenaceae","Uncl. Alcaligenaceae","220707_19","Altos de Campana",0,FALSE
+"Unclassified_Alcaligenaceae","Uncl. Alcaligenaceae","220707_20","Altos de Campana",0,FALSE
+"Unclassified_Alcaligenaceae","Uncl. Alcaligenaceae","220708_01","Soberanía",0.553518544634043,TRUE
+"Unclassified_Alcaligenaceae","Uncl. Alcaligenaceae","220708_02","Soberanía",4.24088384200709,TRUE
+"Unclassified_Alcaligenaceae","Uncl. Alcaligenaceae","220708_03","Soberanía",1.0856346216593,TRUE
+"Unclassified_Alcaligenaceae","Uncl. Alcaligenaceae","220708_04","Soberanía",5.22727792647496,TRUE
+"Unclassified_Alcaligenaceae","Uncl. Alcaligenaceae","220708_05","Soberanía",0.813293136086377,TRUE
+"Unclassified_Alcaligenaceae","Uncl. Alcaligenaceae","220708_06","Soberanía",0.879357135304691,TRUE
+"Unclassified_Alcaligenaceae","Uncl. Alcaligenaceae","220708_07","Soberanía",2.77142697819662,TRUE
+"Unclassified_Alcaligenaceae","Uncl. Alcaligenaceae","220708_08","Soberanía",0.0693869328737382,TRUE
+"Unclassified_Alcaligenaceae","Uncl. Alcaligenaceae","220708_09","Soberanía",0.115724186354948,TRUE
+"Unclassified_Alcaligenaceae","Uncl. Alcaligenaceae","220708_10","Soberanía",0.0407952351165384,TRUE
+"Unclassified_Alcaligenaceae","Uncl. Alcaligenaceae","250607_01","Lost Iguana",0.321452207620308,TRUE
+"Unclassified_Alcaligenaceae","Uncl. Alcaligenaceae","250607_02","Lost Iguana",15.0475239699673,TRUE
+"Unclassified_Alcaligenaceae","Uncl. Alcaligenaceae","250607_03","Lost Iguana",0.0562226416609775,TRUE
+"Unclassified_Alcaligenaceae","Uncl. Alcaligenaceae","250607_04","Lost Iguana",2.37706725468578,TRUE
+"Unclassified_Alcaligenaceae","Uncl. Alcaligenaceae","250607_05","Lost Iguana",0.10788744714973,TRUE
+"Unclassified_Alcaligenaceae","Uncl. Alcaligenaceae","250607_07","Lost Iguana",0.851454152085265,TRUE
+"Unclassified_Alcaligenaceae","Uncl. Alcaligenaceae","250607_08","Lost Iguana",0.397852369732319,TRUE
+"Unclassified_Alcaligenaceae","Uncl. Alcaligenaceae","250607_09","Lost Iguana",0.348708194642574,TRUE
+"Unclassified_Alcaligenaceae","Uncl. Alcaligenaceae","250607_10","Lost Iguana",0,FALSE
+"Unclassified_Bacillaceae","Uncl. Bacillaceae","220604_01","Veragua",0.854700854700855,TRUE
+"Unclassified_Bacillaceae","Uncl. Bacillaceae","220604_02","Veragua",2.13696575856036,TRUE
+"Unclassified_Bacillaceae","Uncl. Bacillaceae","220604_03","Veragua",0,FALSE
+"Unclassified_Bacillaceae","Uncl. Bacillaceae","220604_04","Veragua",0.672398917021213,TRUE
+"Unclassified_Bacillaceae","Uncl. Bacillaceae","220604_05","Veragua",1.33327286744365,TRUE
+"Unclassified_Bacillaceae","Uncl. Bacillaceae","220604_06","Veragua",0.954830833623997,TRUE
+"Unclassified_Bacillaceae","Uncl. Bacillaceae","220604_07","Veragua",0.238185255198488,TRUE
+"Unclassified_Bacillaceae","Uncl. Bacillaceae","220606_02","Veragua",0.751048761784474,TRUE
+"Unclassified_Bacillaceae","Uncl. Bacillaceae","220606_04","Veragua",1.2993762993763,TRUE
+"Unclassified_Bacillaceae","Uncl. Bacillaceae","220607_01","Veragua",0.0717932354818124,TRUE
+"Unclassified_Bacillaceae","Uncl. Bacillaceae","220607_02","Veragua",0.597791366249886,TRUE
+"Unclassified_Bacillaceae","Uncl. Bacillaceae","220607_03","Veragua",0.093241983216443,TRUE
+"Unclassified_Bacillaceae","Uncl. Bacillaceae","220607_04","Veragua",0.332574381539564,TRUE
+"Unclassified_Bacillaceae","Uncl. Bacillaceae","220609_01","Veragua",2.96593501691448,TRUE
+"Unclassified_Bacillaceae","Uncl. Bacillaceae","220609_02","Veragua",0.190911001611359,TRUE
+"Unclassified_Bacillaceae","Uncl. Bacillaceae","220609_03","Veragua",0.782906218878492,TRUE
+"Unclassified_Bacillaceae","Uncl. Bacillaceae","220609_04","Veragua",0.255247590162458,TRUE
+"Unclassified_Bacillaceae","Uncl. Bacillaceae","220609_07","Veragua",0.0949804053029396,TRUE
+"Unclassified_Bacillaceae","Uncl. Bacillaceae","220707_11","Altos de Campana",0.181439159975293,TRUE
+"Unclassified_Bacillaceae","Uncl. Bacillaceae","220707_12","Altos de Campana",0.0650714306841374,TRUE
+"Unclassified_Bacillaceae","Uncl. Bacillaceae","220707_13","Altos de Campana",0.0542917639394104,TRUE
+"Unclassified_Bacillaceae","Uncl. Bacillaceae","220707_14","Altos de Campana",0.1377210785735,TRUE
+"Unclassified_Bacillaceae","Uncl. Bacillaceae","220707_15","Altos de Campana",0,FALSE
+"Unclassified_Bacillaceae","Uncl. Bacillaceae","220707_16","Altos de Campana",0.0708661417322835,TRUE
+"Unclassified_Bacillaceae","Uncl. Bacillaceae","220707_17","Altos de Campana",0.0337744865027145,TRUE
+"Unclassified_Bacillaceae","Uncl. Bacillaceae","220707_18","Altos de Campana",0.0301776933591323,TRUE
+"Unclassified_Bacillaceae","Uncl. Bacillaceae","220707_19","Altos de Campana",0,FALSE
+"Unclassified_Bacillaceae","Uncl. Bacillaceae","220707_20","Altos de Campana",0,FALSE
+"Unclassified_Bacillaceae","Uncl. Bacillaceae","220708_01","Soberanía",0.278522070229869,TRUE
+"Unclassified_Bacillaceae","Uncl. Bacillaceae","220708_02","Soberanía",0.155779203476336,TRUE
+"Unclassified_Bacillaceae","Uncl. Bacillaceae","220708_03","Soberanía",0.148310740663839,TRUE
+"Unclassified_Bacillaceae","Uncl. Bacillaceae","220708_04","Soberanía",0.376318257726534,TRUE
+"Unclassified_Bacillaceae","Uncl. Bacillaceae","220708_05","Soberanía",0,FALSE
+"Unclassified_Bacillaceae","Uncl. Bacillaceae","220708_06","Soberanía",0.357734465865435,TRUE
+"Unclassified_Bacillaceae","Uncl. Bacillaceae","220708_07","Soberanía",0.0650569713191695,TRUE
+"Unclassified_Bacillaceae","Uncl. Bacillaceae","220708_08","Soberanía",0.0581954920876514,TRUE
+"Unclassified_Bacillaceae","Uncl. Bacillaceae","220708_09","Soberanía",0,FALSE
+"Unclassified_Bacillaceae","Uncl. Bacillaceae","220708_10","Soberanía",0,FALSE
+"Unclassified_Bacillaceae","Uncl. Bacillaceae","250607_01","Lost Iguana",0.51684472597775,TRUE
+"Unclassified_Bacillaceae","Uncl. Bacillaceae","250607_02","Lost Iguana",0.205902539464653,TRUE
+"Unclassified_Bacillaceae","Uncl. Bacillaceae","250607_03","Lost Iguana",0.200795148789205,TRUE
+"Unclassified_Bacillaceae","Uncl. Bacillaceae","250607_04","Lost Iguana",0,FALSE
+"Unclassified_Bacillaceae","Uncl. Bacillaceae","250607_05","Lost Iguana",0.17203674004957,TRUE
+"Unclassified_Bacillaceae","Uncl. Bacillaceae","250607_07","Lost Iguana",0.358926808841564,TRUE
+"Unclassified_Bacillaceae","Uncl. Bacillaceae","250607_08","Lost Iguana",0.256865850361157,TRUE
+"Unclassified_Bacillaceae","Uncl. Bacillaceae","250607_09","Lost Iguana",0.313044856554129,TRUE
+"Unclassified_Bacillaceae","Uncl. Bacillaceae","250607_10","Lost Iguana",0.0457095366715147,TRUE
+"Micrococcus","Micrococcus","220604_01","Veragua",0,FALSE
+"Micrococcus","Micrococcus","220604_02","Veragua",0.156210947263184,TRUE
+"Micrococcus","Micrococcus","220604_03","Veragua",0.0100975131267671,TRUE
+"Micrococcus","Micrococcus","220604_04","Veragua",0.261819047335694,TRUE
+"Micrococcus","Micrococcus","220604_05","Veragua",0.573670128338851,TRUE
+"Micrococcus","Micrococcus","220604_06","Veragua",0.0850191838158354,TRUE
+"Micrococcus","Micrococcus","220604_07","Veragua",0.0260449485402226,TRUE
+"Micrococcus","Micrococcus","220606_02","Veragua",0.374396680048717,TRUE
+"Micrococcus","Micrococcus","220606_04","Veragua",8.4026334026334,TRUE
+"Micrococcus","Micrococcus","220607_01","Veragua",0,FALSE
+"Micrococcus","Micrococcus","220607_02","Veragua",0.10495573605914,TRUE
+"Micrococcus","Micrococcus","220607_03","Veragua",0.0283779948919609,TRUE
+"Micrococcus","Micrococcus","220607_04","Veragua",1.13842769065466,TRUE
+"Micrococcus","Micrococcus","220609_01","Veragua",0.271418456455039,TRUE
+"Micrococcus","Micrococcus","220609_02","Veragua",0.0175147707900329,TRUE
+"Micrococcus","Micrococcus","220609_03","Veragua",0.282990031257087,TRUE
+"Micrococcus","Micrococcus","220609_04","Veragua",0,FALSE
+"Micrococcus","Micrococcus","220609_07","Veragua",0.091388709304089,TRUE
+"Micrococcus","Micrococcus","220707_11","Altos de Campana",0,FALSE
+"Micrococcus","Micrococcus","220707_12","Altos de Campana",0,FALSE
+"Micrococcus","Micrococcus","220707_13","Altos de Campana",0,FALSE
+"Micrococcus","Micrococcus","220707_14","Altos de Campana",0.0398666280081183,TRUE
+"Micrococcus","Micrococcus","220707_15","Altos de Campana",0,FALSE
+"Micrococcus","Micrococcus","220707_16","Altos de Campana",0.0288713910761155,TRUE
+"Micrococcus","Micrococcus","220707_17","Altos de Campana",0.0262690450576668,TRUE
+"Micrococcus","Micrococcus","220707_18","Altos de Campana",0.00710063373156054,TRUE
+"Micrococcus","Micrococcus","220707_19","Altos de Campana",0,FALSE
+"Micrococcus","Micrococcus","220707_20","Altos de Campana",0,FALSE
+"Micrococcus","Micrococcus","220708_01","Soberanía",0.0599351290368072,TRUE
+"Micrococcus","Micrococcus","220708_02","Soberanía",0.0430442535921454,TRUE
+"Micrococcus","Micrococcus","220708_03","Soberanía",0.053391866638982,TRUE
+"Micrococcus","Micrococcus","220708_04","Soberanía",0.0560474000869307,TRUE
+"Micrococcus","Micrococcus","220708_05","Soberanía",0,FALSE
+"Micrococcus","Micrococcus","220708_06","Soberanía",0,FALSE
+"Micrococcus","Micrococcus","220708_07","Soberanía",0.0204464767003104,TRUE
+"Micrococcus","Micrococcus","220708_08","Soberanía",0,FALSE
+"Micrococcus","Micrococcus","220708_09","Soberanía",0,FALSE
+"Micrococcus","Micrococcus","220708_10","Soberanía",0,FALSE
+"Micrococcus","Micrococcus","250607_01","Lost Iguana",0.167029088273297,TRUE
+"Micrococcus","Micrococcus","250607_02","Lost Iguana",0.0291175308333853,TRUE
+"Micrococcus","Micrococcus","250607_03","Lost Iguana",0.0421669812457331,TRUE
+"Micrococcus","Micrococcus","250607_04","Lost Iguana",0,FALSE
+"Micrococcus","Micrococcus","250607_05","Lost Iguana",0.262428925499344,TRUE
+"Micrococcus","Micrococcus","250607_07","Lost Iguana",0.333004317091895,TRUE
+"Micrococcus","Micrococcus","250607_08","Lost Iguana",0.19313221831666,TRUE
+"Micrococcus","Micrococcus","250607_09","Lost Iguana",0.126802979870027,TRUE
+"Micrococcus","Micrococcus","250607_10","Lost Iguana",0,FALSE
+"Pseudomonas","Pseudomonas","220604_01","Veragua",0.100553041729512,TRUE
+"Pseudomonas","Pseudomonas","220604_02","Veragua",0.112471882029493,TRUE
+"Pseudomonas","Pseudomonas","220604_03","Veragua",1.98488258034735,TRUE
+"Pseudomonas","Pseudomonas","220604_04","Veragua",0.39272857100354,TRUE
+"Pseudomonas","Pseudomonas","220604_05","Veragua",0.990884767130742,TRUE
+"Pseudomonas","Pseudomonas","220604_06","Veragua",0.4817753749564,TRUE
+"Pseudomonas","Pseudomonas","220604_07","Veragua",0.339004410838059,TRUE
+"Pseudomonas","Pseudomonas","220606_02","Veragua",1.34196400378907,TRUE
+"Pseudomonas","Pseudomonas","220606_04","Veragua",0.51975051975052,TRUE
+"Pseudomonas","Pseudomonas","220607_01","Veragua",0,FALSE
+"Pseudomonas","Pseudomonas","220607_02","Veragua",0.11864561467555,TRUE
+"Pseudomonas","Pseudomonas","220607_03","Veragua",0.0668909879596222,TRUE
+"Pseudomonas","Pseudomonas","220607_04","Veragua",0.14326281050935,TRUE
+"Pseudomonas","Pseudomonas","220609_01","Veragua",0.405160884273464,TRUE
+"Pseudomonas","Pseudomonas","220609_02","Veragua",0.0472898811330889,TRUE
+"Pseudomonas","Pseudomonas","220609_03","Veragua",0.355956102034176,TRUE
+"Pseudomonas","Pseudomonas","220609_04","Veragua",0.129125251493949,TRUE
+"Pseudomonas","Pseudomonas","220609_07","Veragua",0.0383114239877403,TRUE
+"Pseudomonas","Pseudomonas","220707_11","Altos de Campana",0.0617665225447807,TRUE
+"Pseudomonas","Pseudomonas","220707_12","Altos de Campana",0.20704546126771,TRUE
+"Pseudomonas","Pseudomonas","220707_13","Altos de Campana",0.610782344318367,TRUE
+"Pseudomonas","Pseudomonas","220707_14","Altos de Campana",0.0688605392867498,TRUE
+"Pseudomonas","Pseudomonas","220707_15","Altos de Campana",0,FALSE
+"Pseudomonas","Pseudomonas","220707_16","Altos de Campana",0.152230971128609,TRUE
+"Pseudomonas","Pseudomonas","220707_17","Altos de Campana",0.0637962522829051,TRUE
+"Pseudomonas","Pseudomonas","220707_18","Altos de Campana",0.117160456570749,TRUE
+"Pseudomonas","Pseudomonas","220707_19","Altos de Campana",0,FALSE
+"Pseudomonas","Pseudomonas","220707_20","Altos de Campana",0.0299246443047961,TRUE
+"Pseudomonas","Pseudomonas","220708_01","Soberanía",0.190382174587505,TRUE
+"Pseudomonas","Pseudomonas","220708_02","Soberanía",0.116834402607252,TRUE
+"Pseudomonas","Pseudomonas","220708_03","Soberanía",0,FALSE
+"Pseudomonas","Pseudomonas","220708_04","Soberanía",0.177292796193352,TRUE
+"Pseudomonas","Pseudomonas","220708_05","Soberanía",0,FALSE
+"Pseudomonas","Pseudomonas","220708_06","Soberanía",0.0229091037253727,TRUE
+"Pseudomonas","Pseudomonas","220708_07","Soberanía",0,FALSE
+"Pseudomonas","Pseudomonas","220708_08","Soberanía",0.080578373659825,TRUE
+"Pseudomonas","Pseudomonas","220708_09","Soberanía",0.0819171206782218,TRUE
+"Pseudomonas","Pseudomonas","220708_10","Soberanía",2.20022301395197,TRUE
+"Pseudomonas","Pseudomonas","250607_01","Lost Iguana",6.04771359238599,TRUE
+"Pseudomonas","Pseudomonas","250607_02","Lost Iguana",2.84103907988603,TRUE
+"Pseudomonas","Pseudomonas","250607_03","Lost Iguana",0.160636119031364,TRUE
+"Pseudomonas","Pseudomonas","250607_04","Lost Iguana",0,FALSE
+"Pseudomonas","Pseudomonas","250607_05","Lost Iguana",0.163289109199592,TRUE
+"Pseudomonas","Pseudomonas","250607_07","Lost Iguana",0.626127877645839,TRUE
+"Pseudomonas","Pseudomonas","250607_08","Lost Iguana",0.826605894395303,TRUE
+"Pseudomonas","Pseudomonas","250607_09","Lost Iguana",4.16864796322714,TRUE
+"Pseudomonas","Pseudomonas","250607_10","Lost Iguana",1.79513816746312,TRUE
+"Bosea","Bosea","220604_01","Veragua",0.100553041729512,TRUE
+"Bosea","Bosea","220604_02","Veragua",0,FALSE
+"Bosea","Bosea","220604_03","Veragua",0.227915296289885,TRUE
+"Bosea","Bosea","220604_04","Veragua",0,FALSE
+"Bosea","Bosea","220604_05","Veragua",0.0136048251779965,TRUE
+"Bosea","Bosea","220604_06","Veragua",0,FALSE
+"Bosea","Bosea","220604_07","Veragua",0.00756143667296786,TRUE
+"Bosea","Bosea","220606_02","Veragua",0.0631512472371329,TRUE
+"Bosea","Bosea","220606_04","Veragua",0,FALSE
+"Bosea","Bosea","220607_01","Veragua",0,FALSE
+"Bosea","Bosea","220607_02","Veragua",0,FALSE
+"Bosea","Bosea","220607_03","Veragua",0.0709449872299023,TRUE
+"Bosea","Bosea","220607_04","Veragua",0,FALSE
+"Bosea","Bosea","220609_01","Veragua",0,FALSE
+"Bosea","Bosea","220609_02","Veragua",0,FALSE
+"Bosea","Bosea","220609_03","Veragua",0,FALSE
+"Bosea","Bosea","220609_04","Veragua",0.105101948890424,TRUE
+"Bosea","Bosea","220609_07","Veragua",0.466920479850585,TRUE
+"Bosea","Bosea","220707_11","Altos de Campana",0.235484867201977,TRUE
+"Bosea","Bosea","220707_12","Altos de Campana",0.118311692152977,TRUE
+"Bosea","Bosea","220707_13","Altos de Campana",0.0380042347575873,TRUE
+"Bosea","Bosea","220707_14","Altos de Campana",0.195708901130763,TRUE
+"Bosea","Bosea","220707_15","Altos de Campana",0.035290484803035,TRUE
+"Bosea","Bosea","220707_16","Altos de Campana",0.0761154855643045,TRUE
+"Bosea","Bosea","220707_17","Altos de Campana",0,FALSE
+"Bosea","Bosea","220707_18","Altos de Campana",0.0426038023893633,TRUE
+"Bosea","Bosea","220707_19","Altos de Campana",0.0812727810067974,TRUE
+"Bosea","Bosea","220707_20","Altos de Campana",0.190429554666884,TRUE
+"Bosea","Bosea","220708_01","Soberanía",0.0987166831194472,TRUE
+"Bosea","Bosea","220708_02","Soberanía",0,FALSE
+"Bosea","Bosea","220708_03","Soberanía",0.18390531842316,TRUE
+"Bosea","Bosea","220708_04","Soberanía",0,FALSE
+"Bosea","Bosea","220708_05","Soberanía",0.0701114772488256,TRUE
+"Bosea","Bosea","220708_06","Soberanía",0.0405314912064286,TRUE
+"Bosea","Bosea","220708_07","Soberanía",0.161713042993364,TRUE
+"Bosea","Bosea","220708_08","Soberanía",0.0984846789175638,TRUE
+"Bosea","Bosea","220708_09","Soberanía",0.24835190554826,TRUE
+"Bosea","Bosea","220708_10","Soberanía",0.734314232097691,TRUE
+"Bosea","Bosea","250607_01","Lost Iguana",0,FALSE
+"Bosea","Bosea","250607_02","Lost Iguana",0,FALSE
+"Bosea","Bosea","250607_03","Lost Iguana",0.0481908357094093,TRUE
+"Bosea","Bosea","250607_04","Lost Iguana",0,FALSE
+"Bosea","Bosea","250607_05","Lost Iguana",0,FALSE
+"Bosea","Bosea","250607_07","Lost Iguana",0.262215974237031,TRUE
+"Bosea","Bosea","250607_08","Lost Iguana",0.0270385105643323,TRUE
+"Bosea","Bosea","250607_09","Lost Iguana",0.126802979870027,TRUE
+"Bosea","Bosea","250607_10","Lost Iguana",0,FALSE

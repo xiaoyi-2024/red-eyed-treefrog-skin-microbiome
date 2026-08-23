@@ -1,0 +1,2 @@
+"Samples","Original_ASVs","Aggregated_genera","Retained_genera","Prevalence_threshold_percent","Prevalence_min_samples","Distance","Linkage","Cophenetic_Pearson","Cophenetic_Spearman","Fixed_k_or_tree_cut"
+47,19955,1221,326,20,10,"Bray-Curtis on genus relative abundance","average (UPGMA)",0.79066443890301,0.738824818098313,"none"

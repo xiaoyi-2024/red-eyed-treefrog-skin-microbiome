@@ -1,0 +1,2 @@
+"Endpoint","Model","Effect_log_ratio_per_10_years","Ratio_per_10_years","Percent_change_per_10_years","Statistic","Exact_p","Locality_n","Frog_n","Exact_permutations","Common_sample_coverage","Conclusion_at_0_05"
+"Whole-community genus Hill D1 diversity","Inverse-variance weighted log-linear trend",0.254392579100742,1.28967800553094,28.9678005530943,0.0166345229043939,0.416666666666667,4,47,24,1,"Insufficient evidence to reject no association"

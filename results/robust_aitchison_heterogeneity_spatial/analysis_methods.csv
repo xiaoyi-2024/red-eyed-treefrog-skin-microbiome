@@ -1,0 +1,7 @@
+"Item","Definition"
+"Heterogeneity estimator","Mean sample-to-locality-centroid distance in rCLR space"
+"Independent unit","Locality (n = 4)"
+"Predictors","Longitude, latitude and WorldClim elevation tested separately"
+"Inference","Exact two-sided Spearman correlation; all 4! label permutations"
+"Multiplicity","Holm correction across 2 communities x 3 predictors"
+"Error bars","SE among frog-level distances within locality; descriptive"

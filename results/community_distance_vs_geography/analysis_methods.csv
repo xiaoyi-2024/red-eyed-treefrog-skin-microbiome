@@ -1,0 +1,7 @@
+"Item","Definition"
+"Independent unit","Locality (n = 4)"
+"Geographic separation","Great-circle distance from mean coordinates"
+"Primary test","Mantel-Spearman correlation"
+"Exact null","All 4! = 24 locality-label permutations"
+"Multiplicity","Holm correction across 3 distances x 2 communities"
+"Plot interpretation","Six pair points and linear fit are descriptive/non-independent"

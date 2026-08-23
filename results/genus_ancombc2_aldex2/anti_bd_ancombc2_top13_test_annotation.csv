@@ -1,0 +1,14 @@
+"Genus_full","Genus","Robust_FDR05","ANCOMBC2_q"
+"Acinetobacter","Acinetobacter",TRUE,1.26132888790166e-08
+"Staphylococcus","Staphylococcus",TRUE,0.00202505604666735
+"Micrococcus","Micrococcus",FALSE,0.114260351297383
+"Pseudomonas","Pseudomonas",TRUE,0.000267092039591147
+"Stenotrophomonas","Stenotrophomonas",TRUE,0.00775972722175399
+"Bosea","Bosea",FALSE,0.108707549268884
+"Curtobacterium","Curtobacterium",TRUE,0.00559087236833637
+"Chryseobacterium","Chryseobacterium",FALSE,0.9433528100645
+"Novosphingobium","Novosphingobium",TRUE,0.0328744093237259
+"Brevundimonas","Brevundimonas",FALSE,0.270856469919987
+"Unclassified_Bacillaceae","Uncl. Bacillaceae",FALSE,0.25702440623077
+"Burkholderia-Caballeronia-Paraburkholderia","Burkholderia complex",TRUE,0.0286997569013
+"Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium","Rhizobium complex",FALSE,0.25702440623077

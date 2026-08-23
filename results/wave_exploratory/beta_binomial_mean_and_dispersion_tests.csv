@@ -1,0 +1,3 @@
+"Test","Null_model","Alternative_model","Chisq","df","p_value","Sample_n","Locality_n"
+"Locality effect on mean anti-Bd relative abundance","constant mean; locality-specific dispersion","locality-specific mean and dispersion",33.6215379732394,3,2.38127389571707e-07,47,4
+"Locality effect on beta-binomial dispersion","locality-specific mean; constant dispersion","locality-specific mean and dispersion",21.0962344854341,3,0.000100540912776573,47,4

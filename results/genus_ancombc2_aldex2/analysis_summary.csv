@@ -1,0 +1,9 @@
+"Metric","Value"
+"Frog samples",47
+"Genera before filtering",1221
+"Genera after filtering",326
+"Genera modeled by ANCOM-BC2",134
+"Prevalence threshold",0.2
+"ANCOM-BC2 robust global FDR < 0.05",64
+"ALDEx2 global FDR < 0.05",48
+"Significant by both methods",45

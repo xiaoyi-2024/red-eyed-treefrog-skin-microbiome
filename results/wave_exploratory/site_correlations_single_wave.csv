@@ -1,0 +1,3 @@
+"Model","Outcome","Site_n","Spearman_rho","Exact_p"
+"Single directed Central American wave","Mean anti-Bd relative abundance (%)",4,-0.4,0.75
+"Single directed Central American wave","Mean Aitchison distance to site centroid",4,0.4,0.75

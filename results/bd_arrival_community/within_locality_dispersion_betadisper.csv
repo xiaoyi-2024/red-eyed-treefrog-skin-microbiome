@@ -1,0 +1,5 @@
+"Community","Metric","F","p_value","Permutations","BH_FDR_within_metric"
+"Whole community","CLR-Aitchison",4.30246455687535,0.0063,9999,0.0126
+"Whole community","Robust Aitchison",1.59797156628829,0.1959,9999,0.3918
+"Anti-Bd genera","CLR-Aitchison",3.17811716403803,0.0324,9999,0.0324
+"Anti-Bd genera","Robust Aitchison",0.499675735702399,0.7138,9999,0.7138

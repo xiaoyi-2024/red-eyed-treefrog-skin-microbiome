@@ -1,0 +1,2 @@
+"Input_file","Community","Samples","Original_ASVs","Aggregated_genera","Retained_genera","Prevalence_threshold_percent","Prevalence_min_samples","Distance","Linkage","Cophenetic_Pearson","Cophenetic_Spearman","Fixed_k_or_tree_cut"
+"data/processed/blast_97id_90cov/ps_anti_bd_47_rebuilt_97id_90cov.rds","anti-Bd bacterial community (47 frogs)",47,480,111,28,20,10,"Bray-Curtis on genus relative abundance","average (UPGMA)",0.794748838463652,0.713635335570574,"none"

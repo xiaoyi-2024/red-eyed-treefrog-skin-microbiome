@@ -1,0 +1,3 @@
+"Community","Sample_n","Genera_n","PERMANOVA_R2","PERMANOVA_pseudo_F","PERMANOVA_p","Betadisper_F","Betadisper_p","Permutations","PERMANOVA_Holm_p","Betadisper_Holm_p"
+"Whole community",47,326,0.493790975481541,13.9817156663723,1e-04,3.68713331040074,0.017,9999,2e-04,0.034
+"Anti-Bd community",47,28,0.187239873078215,3.30204623138379,9e-04,0.99751086355181,0.401,9999,9e-04,0.401

@@ -1,0 +1,2 @@
+"Test","Site_n","Sample_n","Selected_k","p","Replicates","Note"
+"Fisher exact test with Monte Carlo simulation",4,47,2,1e-05,99999,"Sample-level association; clustering strength must be evaluated separately"

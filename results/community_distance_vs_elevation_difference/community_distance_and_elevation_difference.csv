@@ -1,0 +1,37 @@
+"Community","Metric","Site_1","Site_2","Community_distance","Geographic_km","Pair","Elevation_difference_m"
+"Whole community","Bray-Curtis","Lost","Veragua",0.693560514568279,182.197343042477,"Lost vs Veragua",273.666666666667
+"Whole community","Bray-Curtis","Lost","Campana",0.735295935315807,566.056974906031,"Lost vs Campana",252
+"Whole community","Bray-Curtis","Lost","Soberanía",0.688097758464916,576.692007809299,"Lost vs Soberanía",485
+"Whole community","Bray-Curtis","Veragua","Campana",0.603531333813254,383.871691734791,"Veragua vs Campana",525.666666666667
+"Whole community","Bray-Curtis","Veragua","Soberanía",0.633863078592225,395.43552819168,"Veragua vs Soberanía",211.333333333333
+"Whole community","Bray-Curtis","Campana","Soberanía",0.54017499758422,54.4607168818485,"Campana vs Soberanía",737
+"Anti-Bd","Bray-Curtis","Lost","Veragua",0.627668080030287,182.197343042477,"Lost vs Veragua",273.666666666667
+"Anti-Bd","Bray-Curtis","Lost","Campana",0.767167226783391,566.056974906031,"Lost vs Campana",252
+"Anti-Bd","Bray-Curtis","Lost","Soberanía",0.712661179621669,576.692007809299,"Lost vs Soberanía",485
+"Anti-Bd","Bray-Curtis","Veragua","Campana",0.671165908862377,383.871691734791,"Veragua vs Campana",525.666666666667
+"Anti-Bd","Bray-Curtis","Veragua","Soberanía",0.746782482593526,395.43552819168,"Veragua vs Soberanía",211.333333333333
+"Anti-Bd","Bray-Curtis","Campana","Soberanía",0.734978490623175,54.4607168818485,"Campana vs Soberanía",737
+"Whole community","CLR-Aitchison","Campana","Soberanía",42.5622230150764,54.4607168818485,"Campana vs Soberanía",737
+"Whole community","Robust Aitchison","Campana","Soberanía",11.5328197614358,54.4607168818485,"Campana vs Soberanía",737
+"Whole community","CLR-Aitchison","Lost","Campana",45.7012699667563,566.056974906031,"Lost vs Campana",252
+"Whole community","Robust Aitchison","Lost","Campana",20.2188050846479,566.056974906031,"Lost vs Campana",252
+"Whole community","CLR-Aitchison","Lost","Soberanía",42.0511438032104,576.692007809299,"Lost vs Soberanía",485
+"Whole community","Robust Aitchison","Lost","Soberanía",14.2149576005669,576.692007809299,"Lost vs Soberanía",485
+"Whole community","CLR-Aitchison","Lost","Veragua",42.8109120295148,182.197343042477,"Lost vs Veragua",273.666666666667
+"Whole community","Robust Aitchison","Lost","Veragua",13.677595498972,182.197343042477,"Lost vs Veragua",273.666666666667
+"Whole community","CLR-Aitchison","Veragua","Campana",46.5012868605959,383.871691734791,"Veragua vs Campana",525.666666666667
+"Whole community","Robust Aitchison","Veragua","Campana",15.9357094067218,383.871691734791,"Veragua vs Campana",525.666666666667
+"Whole community","CLR-Aitchison","Veragua","Soberanía",44.8353829244718,395.43552819168,"Veragua vs Soberanía",211.333333333333
+"Whole community","Robust Aitchison","Veragua","Soberanía",13.875340404538,395.43552819168,"Veragua vs Soberanía",211.333333333333
+"Anti-Bd","CLR-Aitchison","Campana","Soberanía",14.1555126794097,54.4607168818485,"Campana vs Soberanía",737
+"Anti-Bd","Robust Aitchison","Campana","Soberanía",4.78220596164931,54.4607168818485,"Campana vs Soberanía",737
+"Anti-Bd","CLR-Aitchison","Lost","Campana",15.9552263406173,566.056974906031,"Lost vs Campana",252
+"Anti-Bd","Robust Aitchison","Lost","Campana",6.17001150427665,566.056974906031,"Lost vs Campana",252
+"Anti-Bd","CLR-Aitchison","Lost","Soberanía",15.3147317630063,576.692007809299,"Lost vs Soberanía",485
+"Anti-Bd","Robust Aitchison","Lost","Soberanía",6.57996976020819,576.692007809299,"Lost vs Soberanía",485
+"Anti-Bd","CLR-Aitchison","Lost","Veragua",15.6715975148953,182.197343042477,"Lost vs Veragua",273.666666666667
+"Anti-Bd","Robust Aitchison","Lost","Veragua",5.44609923595609,182.197343042477,"Lost vs Veragua",273.666666666667
+"Anti-Bd","CLR-Aitchison","Veragua","Campana",13.6693627208298,383.871691734791,"Veragua vs Campana",525.666666666667
+"Anti-Bd","Robust Aitchison","Veragua","Campana",4.57716629644616,383.871691734791,"Veragua vs Campana",525.666666666667
+"Anti-Bd","CLR-Aitchison","Veragua","Soberanía",15.7486926294595,395.43552819168,"Veragua vs Soberanía",211.333333333333
+"Anti-Bd","Robust Aitchison","Veragua","Soberanía",5.30162490888075,395.43552819168,"Veragua vs Soberanía",211.333333333333

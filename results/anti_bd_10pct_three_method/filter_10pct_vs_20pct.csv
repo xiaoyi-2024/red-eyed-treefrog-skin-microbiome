@@ -1,0 +1,3 @@
+"Threshold","Minimum_detected_samples","Retained_genera","Total_genera","Retained_anti_Bd_reads_percent"
+0.1,5,47,111,94.8557717894587
+0.2,10,28,111,90.4539729283826

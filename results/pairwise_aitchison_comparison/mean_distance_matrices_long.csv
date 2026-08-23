@@ -1,0 +1,33 @@
+"Metric","Site_1","Site_2","Mean_distance"
+"CLR-Aitchison","Lost","Lost",35.6489948513644
+"CLR-Aitchison","Lost","Veragua",42.8109120295148
+"CLR-Aitchison","Lost","Campana",45.7012699667563
+"CLR-Aitchison","Lost","Soberanía",42.0511438032104
+"CLR-Aitchison","Veragua","Lost",42.8109120295148
+"CLR-Aitchison","Veragua","Veragua",43.1152411214117
+"CLR-Aitchison","Veragua","Campana",46.5012868605959
+"CLR-Aitchison","Veragua","Soberanía",44.8353829244718
+"CLR-Aitchison","Campana","Lost",45.7012699667563
+"CLR-Aitchison","Campana","Veragua",46.5012868605959
+"CLR-Aitchison","Campana","Campana",37.3191155318833
+"CLR-Aitchison","Campana","Soberanía",42.5622230150764
+"CLR-Aitchison","Soberanía","Lost",42.0511438032104
+"CLR-Aitchison","Soberanía","Veragua",44.8353829244718
+"CLR-Aitchison","Soberanía","Campana",42.5622230150764
+"CLR-Aitchison","Soberanía","Soberanía",40.6257185393713
+"Robust Aitchison","Lost","Lost",7.01164141022152
+"Robust Aitchison","Lost","Veragua",13.677595498972
+"Robust Aitchison","Lost","Campana",20.2188050846479
+"Robust Aitchison","Lost","Soberanía",14.2149576005669
+"Robust Aitchison","Veragua","Lost",13.677595498972
+"Robust Aitchison","Veragua","Veragua",11.3549440806018
+"Robust Aitchison","Veragua","Campana",15.9357094067218
+"Robust Aitchison","Veragua","Soberanía",13.875340404538
+"Robust Aitchison","Campana","Lost",20.2188050846479
+"Robust Aitchison","Campana","Veragua",15.9357094067218
+"Robust Aitchison","Campana","Campana",6.32964368596656
+"Robust Aitchison","Campana","Soberanía",11.5328197614358
+"Robust Aitchison","Soberanía","Lost",14.2149576005669
+"Robust Aitchison","Soberanía","Veragua",13.875340404538
+"Robust Aitchison","Soberanía","Campana",11.5328197614358
+"Robust Aitchison","Soberanía","Soberanía",10.9865043730516

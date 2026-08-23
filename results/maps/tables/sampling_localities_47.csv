@@ -1,0 +1,13 @@
+"SiteID","Locality","Country","Latitude","Longitude","SampleCount","ShortName","BiogeographicRegion","Elevation_m_DEM","Elevation_source","MapLabel"
+1,"Lost Iguana Resort, La Fortuna, San Carlos","Costa Rica",10.484028,-84.75553,9,"Lost Iguana Resort","Northeastern Costa Rica",601,"GADM/WorldClim 30 arc-second DEM via geodata; coordinate extraction","1  Lost Iguana Resort
+Northeastern Costa Rica
+601 m  |  n=9"
+2,"Veragua Rainforest, Las Brisas de Veragua","Costa Rica",9.924472,-83.19075,18,"Veragua Rainforest","Southeastern Costa Rica",313,"GADM/WorldClim 30 arc-second DEM via geodata; coordinate extraction","2  Veragua Rainforest
+Southeastern Costa Rica
+313 m  |  n=18"
+3,"PN Altos de Campana","Panama",8.67735,-79.92867,10,"PN Altos de Campana","Central Panama",853,"GADM/WorldClim 30 arc-second DEM via geodata; coordinate extraction","3  PN Altos de Campana
+Central Panama
+853 m  |  n=10"
+4,"PN Soberania, Las Cumbres","Panama",9.102481,-79.68252,10,"PN Soberanía","Central Panama",116,"GADM/WorldClim 30 arc-second DEM via geodata; coordinate extraction","4  PN Soberanía
+Central Panama
+116 m  |  n=10"

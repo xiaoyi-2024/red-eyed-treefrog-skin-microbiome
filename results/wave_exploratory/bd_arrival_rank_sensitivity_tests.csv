@@ -1,0 +1,8 @@
+"Endpoint","Spearman_rho","Exact_two_sided_p","Independent_localities"
+"Anti-Bd relative abundance",-0.4,0.75,4
+"Anti-Bd genus Hill D1 diversity",0.8,0.333333333333333,4
+"Anti-Bd extra variation rho",-0.4,0.75,4
+"Whole-community Aitchison dispersion",0.4,0.75,4
+"Anti-Bd Aitchison dispersion",-0.8,0.333333333333333,4
+"Whole-community robust Aitchison dispersion",-0.4,0.75,4
+"Anti-Bd robust Aitchison dispersion",-0.4,0.75,4

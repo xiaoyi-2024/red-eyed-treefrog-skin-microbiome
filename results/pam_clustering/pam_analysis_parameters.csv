@@ -1,0 +1,9 @@
+"Parameter","Value"
+"Samples",47
+"Original_ASVs",19955
+"Aggregated_genera",1221
+"Retained_genera",326
+"Prevalence_min_samples",10
+"Pseudocount",1
+"Selected_k",2
+"Bootstrap_replicates",500

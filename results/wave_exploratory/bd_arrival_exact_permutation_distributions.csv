@@ -1,0 +1,169 @@
+"Test","Permutation","LRT","Coefficient_per_10_years"
+"Beta-binomial mean",1,10.5191146626115,-0.729937659045157
+"Beta-binomial mean",2,8.0880821350122,-0.364025343970882
+"Beta-binomial mean",3,1.22859544835342,0.231190598926401
+"Beta-binomial mean",4,1.70021756083304,0.232947048948146
+"Beta-binomial mean",5,3.46460024065311,-0.248497462737649
+"Beta-binomial mean",6,1.57115576774572,-0.164469423221729
+"Beta-binomial mean",7,12.3570394464515,0.72151016043525
+"Beta-binomial mean",8,12.4552047310941,0.603484939581452
+"Beta-binomial mean",9,13.4697955586364,0.715244708086429
+"Beta-binomial mean",10,14.5190996231541,0.633904986570766
+"Beta-binomial mean",11,5.95499131112388,0.505235574272535
+"Beta-binomial mean",12,6.18736675356763,0.514621378804839
+"Beta-binomial mean",13,0.724622250723542,0.204844420514302
+"Beta-binomial mean",14,1.21013723659712,0.218859251443194
+"Beta-binomial mean",15,13.2272973970189,-0.725001884437891
+"Beta-binomial mean",16,9.32280083797366,-0.409769538386732
+"Beta-binomial mean",17,2.05423322989554,-0.21007309234521
+"Beta-binomial mean",18,4.11491305937034,-0.293819999280901
+"Beta-binomial mean",19,1.74622109666905,0.161938890671122
+"Beta-binomial mean",20,3.51740413825337,0.222190394749038
+"Beta-binomial mean",21,3.41400187930026,-0.283152437392046
+"Beta-binomial mean",22,3.37180360081015,-0.286306900428105
+"Beta-binomial mean",23,4.018108166204,0.237797477169799
+"Beta-binomial mean",24,2.23211287705419,0.191122817095967
+"Beta-binomial dispersion",1,4.7719389217973,0.399227361284486
+"Beta-binomial dispersion",2,8.78897673144854,0.520627172571492
+"Beta-binomial dispersion",3,0.760236582775065,-0.161311639608852
+"Beta-binomial dispersion",4,1.38897265144828,-0.212354146391319
+"Beta-binomial dispersion",5,6.11043339194237,0.48961567025921
+"Beta-binomial dispersion",6,1.25972344795241,0.232779047953064
+"Beta-binomial dispersion",7,11.6036564864854,-0.760125874990115
+"Beta-binomial dispersion",8,5.53618456258982,-0.538442589557538
+"Beta-binomial dispersion",9,12.0834969381418,-0.760240466165184
+"Beta-binomial dispersion",10,6.34739028944682,-0.564277501290599
+"Beta-binomial dispersion",11,0.139540873233841,0.0848204442228455
+"Beta-binomial dispersion",12,0.0990527455292067,0.0718143052620605
+"Beta-binomial dispersion",13,0.504807760711856,-0.137228802965071
+"Beta-binomial dispersion",14,1.07174379237961,-0.194291264352361
+"Beta-binomial dispersion",15,5.51597859919934,0.444536463414192
+"Beta-binomial dispersion",16,9.67927658415363,0.569171842801134
+"Beta-binomial dispersion",17,1.59129047804208,0.271458313113331
+"Beta-binomial dispersion",18,6.83965851271171,0.542052799104705
+"Beta-binomial dispersion",19,1.55194352740921,-0.22435993546399
+"Beta-binomial dispersion",20,5.57045780351234,-0.395500105350779
+"Beta-binomial dispersion",21,2.15344275782991,0.246847138287877
+"Beta-binomial dispersion",22,2.04120425716826,0.241009215339364
+"Beta-binomial dispersion",23,5.89731386929816,-0.400460499194704
+"Beta-binomial dispersion",24,1.93169671252645,-0.245549325318934
+"Hill D1 log-linear trend",1,0.64230131532655,0.326965850912276
+"Hill D1 log-linear trend",2,0.799487538109628,0.261972214187379
+"Hill D1 log-linear trend",3,0.502662944962841,-0.269174471252891
+"Hill D1 log-linear trend",4,0.492422282514081,-0.217610848634659
+"Hill D1 log-linear trend",5,0.597296013093445,0.294244795768402
+"Hill D1 log-linear trend",6,0.0634397787684643,0.115951690697529
+"Hill D1 log-linear trend",7,0.730816765903932,-0.312404728301169
+"Hill D1 log-linear trend",8,0.300497572232802,-0.240022971164817
+"Hill D1 log-linear trend",9,0.761716521536057,-0.306350124868689
+"Hill D1 log-linear trend",10,0.39172316881586,-0.269045535376932
+"Hill D1 log-linear trend",11,0.289770979403949,0.205376095264059
+"Hill D1 log-linear trend",12,0.284790890734552,0.210332038020071
+"Hill D1 log-linear trend",13,0.446049242522008,-0.263060369632822
+"Hill D1 log-linear trend",14,0.446541427974726,-0.213549058200409
+"Hill D1 log-linear trend",15,0.643954891499444,0.323735286549733
+"Hill D1 log-linear trend",16,0.811331327817352,0.268689103922756
+"Hill D1 log-linear trend",17,0.0675984246137974,0.118213494088369
+"Hill D1 log-linear trend",18,0.606052978908642,0.303372703619864
+"Hill D1 log-linear trend",19,0.268969932253456,-0.248979548347725
+"Hill D1 log-linear trend",20,0.659770854843662,-0.257411717386688
+"Hill D1 log-linear trend",21,0.631385469635314,0.242424108011639
+"Hill D1 log-linear trend",22,0.636519656160309,0.249856170495726
+"Hill D1 log-linear trend",23,0.687574692511206,-0.253699481161008
+"Hill D1 log-linear trend",24,0.365165915350438,-0.28432862396526
+"Aitchison dispersion log-linear trend",1,0.00113905729954867,0.0851152136894215
+"Aitchison dispersion log-linear trend",2,0.00150854862038705,0.103437024950364
+"Aitchison dispersion log-linear trend",3,6.89852098200239e-05,-0.0203902780559626
+"Aitchison dispersion log-linear trend",4,0.000110572165808038,-0.0289437386299656
+"Aitchison dispersion log-linear trend",5,0.000681836260340017,0.0674207798335889
+"Aitchison dispersion log-linear trend",6,0.000542841185007808,0.0640561808956769
+"Aitchison dispersion log-linear trend",7,0.00114713080057762,-0.0850942845505867
+"Aitchison dispersion log-linear trend",8,0.00106891778222361,-0.0870524036589832
+"Aitchison dispersion log-linear trend",9,0.00127022923154139,-0.0899321212333896
+"Aitchison dispersion log-linear trend",10,0.00116628587939818,-0.089814274929804
+"Aitchison dispersion log-linear trend",11,2.65778365067396e-06,-0.00423265524338201
+"Aitchison dispersion log-linear trend",12,3.11423596108837e-06,-0.00450796340719061
+"Aitchison dispersion log-linear trend",13,3.21548754070482e-05,-0.0139147866560861
+"Aitchison dispersion log-linear trend",14,5.71504791748304e-05,-0.020798278370346
+"Aitchison dispersion log-linear trend",15,0.00122269765066554,0.0885286259869343
+"Aitchison dispersion log-linear trend",16,0.00154509130318537,0.103349849115242
+"Aitchison dispersion log-linear trend",17,0.000604252077839885,0.0678687463749622
+"Aitchison dispersion log-linear trend",18,0.000714068337824909,0.0681425909157364
+"Aitchison dispersion log-linear trend",19,0.000580099250564011,-0.0623745826338876
+"Aitchison dispersion log-linear trend",20,0.000902969646877266,-0.0825463325467549
+"Aitchison dispersion log-linear trend",21,0.000315734086244008,0.0462823125682284
+"Aitchison dispersion log-linear trend",22,0.000300009606606644,0.044386617160088
+"Aitchison dispersion log-linear trend",23,0.00102194553772873,-0.088231474895219
+"Aitchison dispersion log-linear trend",24,0.000655606660246838,-0.065516347067481
+"Anti-Bd Aitchison dispersion log-linear trend",1,0.0418274122582708,-0.123493590925127
+"Anti-Bd Aitchison dispersion log-linear trend",2,0.0258119466646002,-0.0965982508040507
+"Anti-Bd Aitchison dispersion log-linear trend",3,0.00664892533751969,-0.0456926941166761
+"Anti-Bd Aitchison dispersion log-linear trend",4,0.0105765169390134,-0.0616661214778282
+"Anti-Bd Aitchison dispersion log-linear trend",5,0.0145797540316261,-0.0675957608248557
+"Anti-Bd Aitchison dispersion log-linear trend",6,0.0354850513239934,-0.113305316781368
+"Anti-Bd Aitchison dispersion log-linear trend",7,0.0319741862150342,0.0971658418394925
+"Anti-Bd Aitchison dispersion log-linear trend",8,0.0541930950878618,0.135293328273965
+"Anti-Bd Aitchison dispersion log-linear trend",9,0.0340851926360415,0.101298025276911
+"Anti-Bd Aitchison dispersion log-linear trend",10,0.0552504731617531,0.136679560818592
+"Anti-Bd Aitchison dispersion log-linear trend",11,0.0212545609050215,0.0798119848986708
+"Anti-Bd Aitchison dispersion log-linear trend",12,0.020285716499583,0.0772596700097845
+"Anti-Bd Aitchison dispersion log-linear trend",13,0.00903513163775286,-0.0524774314846376
+"Anti-Bd Aitchison dispersion log-linear trend",14,0.0136785209481318,-0.0690240402742525
+"Anti-Bd Aitchison dispersion log-linear trend",15,0.0461875675472116,-0.129036181720853
+"Anti-Bd Aitchison dispersion log-linear trend",16,0.0295195034826514,-0.101723544160532
+"Anti-Bd Aitchison dispersion log-linear trend",17,0.0395297747287423,-0.118914257098022
+"Anti-Bd Aitchison dispersion log-linear trend",18,0.0173457930341259,-0.0726755098413793
+"Anti-Bd Aitchison dispersion log-linear trend",19,0.0259712044221526,0.0973105330700989
+"Anti-Bd Aitchison dispersion log-linear trend",20,0.0104016502535357,0.0614030722942073
+"Anti-Bd Aitchison dispersion log-linear trend",21,0.00244258822292032,0.0301111892763649
+"Anti-Bd Aitchison dispersion log-linear trend",22,0.00217773306656715,0.0281446405089112
+"Anti-Bd Aitchison dispersion log-linear trend",23,0.0115769212849892,0.0654745435054592
+"Anti-Bd Aitchison dispersion log-linear trend",24,0.0267205492511979,0.0987588540324078
+"Robust Aitchison dispersion log-linear trend",1,0.0159014562268364,-0.0933000342906312
+"Robust Aitchison dispersion log-linear trend",2,0.00405802120926421,-0.0456475562182749
+"Robust Aitchison dispersion log-linear trend",3,0.0460874485262514,0.184372096864088
+"Robust Aitchison dispersion log-linear trend",4,0.0340383676947912,0.154495839399706
+"Robust Aitchison dispersion log-linear trend",5,0.000463481971164914,0.0199659277340706
+"Robust Aitchison dispersion log-linear trend",6,0.00695865861300857,-0.0791011118124205
+"Robust Aitchison dispersion log-linear trend",7,2.05000785643977e-05,0.00371574349833341
+"Robust Aitchison dispersion log-linear trend",8,0.00529075022761199,0.0607771334397675
+"Robust Aitchison dispersion log-linear trend",9,0.000293284442528845,0.013543120561495
+"Robust Aitchison dispersion log-linear trend",10,0.00636310576027339,0.0643244936598679
+"Robust Aitchison dispersion log-linear trend",11,0.03886135791275,-0.189474701661373
+"Robust Aitchison dispersion log-linear trend",12,0.0408227940121723,-0.194980394093068
+"Robust Aitchison dispersion log-linear trend",13,0.0467693993174985,0.192509686768981
+"Robust Aitchison dispersion log-linear trend",14,0.0342132874327434,0.160403661976224
+"Robust Aitchison dispersion log-linear trend",15,0.0140886313067418,-0.0873339316827671
+"Robust Aitchison dispersion log-linear trend",16,0.00361051845966874,-0.042955397068476
+"Robust Aitchison dispersion log-linear trend",17,0.0055134377957396,-0.0699166972029967
+"Robust Aitchison dispersion log-linear trend",18,0.000673116654900587,0.0239885668152631
+"Robust Aitchison dispersion log-linear trend",19,0.0172725283201102,0.114867751856025
+"Robust Aitchison dispersion log-linear trend",20,0.00107420579506763,0.0274147603750635
+"Robust Aitchison dispersion log-linear trend",21,0.0369614452941694,-0.145577122617218
+"Robust Aitchison dispersion log-linear trend",22,0.0384613821195543,-0.148980322175077
+"Robust Aitchison dispersion log-linear trend",23,0.00198563956841717,0.035892404304818
+"Robust Aitchison dispersion log-linear trend",24,0.0186688907163381,0.115070206715844
+"Anti-Bd robust Aitchison dispersion log-linear trend",1,0.735739123653055,-0.20623788139245
+"Anti-Bd robust Aitchison dispersion log-linear trend",2,0.820028251675194,-0.213491565357868
+"Anti-Bd robust Aitchison dispersion log-linear trend",3,0.0280842117264596,0.0446010482034138
+"Anti-Bd robust Aitchison dispersion log-linear trend",4,0.0321264893856459,0.0440587114187688
+"Anti-Bd robust Aitchison dispersion log-linear trend",5,0.514219035706149,-0.188929240760228
+"Anti-Bd robust Aitchison dispersion log-linear trend",6,0.34167566053918,-0.145477328872789
+"Anti-Bd robust Aitchison dispersion log-linear trend",7,0.756149354153533,0.207260517193603
+"Anti-Bd robust Aitchison dispersion log-linear trend",8,0.589365548189318,0.174642351697723
+"Anti-Bd robust Aitchison dispersion log-linear trend",9,0.79991756478179,0.209983909909895
+"Anti-Bd robust Aitchison dispersion log-linear trend",10,0.646205792311572,0.182022521115404
+"Anti-Bd robust Aitchison dispersion log-linear trend",11,0.0125608223553035,0.0274258278157594
+"Anti-Bd robust Aitchison dispersion log-linear trend",12,0.0136519144278957,0.0289042466476854
+"Anti-Bd robust Aitchison dispersion log-linear trend",13,0.00816564635436845,0.0239027721012652
+"Anti-Bd robust Aitchison dispersion log-linear trend",14,0.0116246071319437,0.0263526209514634
+"Anti-Bd robust Aitchison dispersion log-linear trend",15,0.75779072340932,-0.205120574774414
+"Anti-Bd robust Aitchison dispersion log-linear trend",16,0.85134054894147,-0.215330365969894
+"Anti-Bd robust Aitchison dispersion log-linear trend",17,0.36409219535956,-0.147072905179842
+"Anti-Bd robust Aitchison dispersion log-linear trend",18,0.545189190249848,-0.192349370504953
+"Anti-Bd robust Aitchison dispersion log-linear trend",19,0.429478850348403,0.172282372001887
+"Anti-Bd robust Aitchison dispersion log-linear trend",20,0.540535699170364,0.188604151586116
+"Anti-Bd robust Aitchison dispersion log-linear trend",21,0.154313503982991,-0.100001693298561
+"Anti-Bd robust Aitchison dispersion log-linear trend",22,0.154912833505383,-0.101330607477628
+"Anti-Bd robust Aitchison dispersion log-linear trend",23,0.583848426149419,0.192873906391658
+"Anti-Bd robust Aitchison dispersion log-linear trend",24,0.486833836438797,0.182449606862017

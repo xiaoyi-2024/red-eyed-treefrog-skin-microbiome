@@ -1,0 +1,13 @@
+"Metric","Value"
+"Existing samples",53
+"Rebuilt samples",53
+"Common samples",53
+"Existing ASVs",20405
+"Rebuilt ASVs",19997
+"Shared exact ASV sequences",19753
+"Existing total reads",2689120
+"Rebuilt total reads",2680067
+"Median sample depth difference",-80
+"Maximum absolute sample depth difference",1667
+"Rebuilt skin samples depth >=1000",47
+"Rebuilt 47-set ASVs",19955

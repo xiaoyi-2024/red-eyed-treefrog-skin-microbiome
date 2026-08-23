@@ -1,0 +1,2 @@
+"Formula","Anchor_n","R_squared","Adjusted_R_squared","RMSE_years","LOOCV_RMSE_years"
+"DOD_year ~ longitude + latitude",7,0.97523218198929,0.962848272983936,1.14374173811418,2.13450941194082
