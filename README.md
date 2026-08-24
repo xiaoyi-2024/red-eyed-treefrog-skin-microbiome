@@ -32,7 +32,7 @@ The processed phyloseq objects are sufficient for the principal statistical anal
 
 ## Citation and archival version
 
-Citation metadata are provided in `CITATION.cff`. GitHub automatically supplies source-code archives for each release; the archived DOI will be added here after the `v1.0.0` release has been deposited in Zenodo.
+Citation metadata are provided in `CITATION.cff`. The immutable `v1.0.0` release is archived in Zenodo at [https://doi.org/10.5281/zenodo.22086593](https://doi.org/10.5281/zenodo.22086593). The concept DOI for all versions is [https://doi.org/10.5281/zenodo.22086392](https://doi.org/10.5281/zenodo.22086392).
 
 ## Functional annotation caveat
 
