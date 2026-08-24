@@ -2,6 +2,8 @@
 
 This repository contains the R workflow, processed ASV-level data, statistical outputs, source-data tables for figures, and PNG figures used to analyse skin bacterial communities from 47 *Agalychnis callidryas* individuals sampled at four localities in Costa Rica and Panama.
 
+The versioned release associated with the thesis is `v1.0.0`. The earlier `BIOS` release is retained as a preliminary snapshot.
+
 ## Repository structure
 
 - `code/data_process/`: sample-depth filtering, phyloseq reconstruction, SILVA taxonomy integration, and Woodhams anti-Bd annotation.
@@ -25,6 +27,12 @@ Raw FASTQ files, filtered FASTQ files, the original sequencing archive, the SILV
 Run commands from the repository root. Data-processing scripts are ordered numerically in `code/data_process/`. Analysis scripts in `code/analysis/` use repository-relative paths and write outputs under `results/`.
 
 Package requirements are declared near the beginning of each R script. Random seeds and permutation counts are specified in the corresponding scripts.
+
+The processed phyloseq objects are sufficient for the principal statistical analyses. Re-running DADA2 denoising or the BLAST annotation step additionally requires the raw or filtered FASTQ files and external reference databases, which are not included in this repository.
+
+## Citation and archival version
+
+Citation metadata are provided in `CITATION.cff`. GitHub automatically supplies source-code archives for each release; the archived DOI will be added here after the `v1.0.0` release has been deposited in Zenodo.
 
 ## Functional annotation caveat
 

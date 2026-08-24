@@ -1,0 +1,20 @@
+{
+  "title": "Red-eyed treefrog skin microbiome analysis",
+  "upload_type": "software",
+  "description": "R code, processed ASV-level data, statistical outputs, figure source data, and PNG figures supporting an analysis of whole and candidate anti-Bd skin bacterial communities in red-eyed treefrogs from Costa Rica and Panama.",
+  "creators": [
+    {
+      "name": "Wang, Xiaoyi"
+    }
+  ],
+  "keywords": [
+    "Agalychnis callidryas",
+    "amphibian skin microbiome",
+    "Batrachochytrium dendrobatidis",
+    "anti-Bd bacteria",
+    "biogeography",
+    "community ecology",
+    "reproducible research"
+  ],
+  "access_right": "open"
+}
